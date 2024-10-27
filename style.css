@@ -1,0 +1,24 @@
+html {
+    background-color: #f1f1f1;
+}
+
+h1,
+h2,
+p,
+li {
+    font-family: sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+
+p,
+ol,
+ul {
+    background-color: white;
+}
